@@ -1,4 +1,4 @@
-# Surfs Up Challenege
+# Surfs Up Challenge
 
 ## Overview
 - We want to live in the dream destiantion of Oahu and open a combination shop that sells surf products and ice cream. In order to secure a big investor, W. Avy, we need statistical proof that our chosen location will attract plenty of customers. We can do this by proving that the weather is warm and sunny OFTEN!
